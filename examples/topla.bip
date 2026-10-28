@@ -1,0 +1,16 @@
+iki sayı alır, toplayıp yazar (toplam 255i geçerse başa sarar)
+
+ilk sayıyı ilk hücreye oku
+bip bip kaboom
+
+sağa geç, ikinci sayıyı oku
+bum bip bip kaboom
+
+ikinci hücre bitene kadar: ondan bir al, ilkine bir ver
+kaboom
+  dut
+  bum bum bip bum
+kaboom kaboom
+
+ilk hücreye dön ve sonucu yaz
+bum bum boom boom
